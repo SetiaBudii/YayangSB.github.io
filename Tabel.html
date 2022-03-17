@@ -1,0 +1,31 @@
+<html lang="en" >
+    <head>
+      <meta charset="UTF-8">
+      <title>Tugas6.2-WebScrapping</title>
+      <link rel="stylesheet" href="Styles.css">
+        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	</head>
+	<body>
+        <br>
+        <h1 align="center" style="color:white"><br>WebScrapping Republika</h1>
+        <div id="headline_json"></div>
+	</body>
+    <script type="text/javascript">
+        $(function(){
+            //mengambil data dari file json
+            $.get('headline.json',function(obj){
+                var str = "<table border=1 class=fl-table>";
+                str +="<tr align='center'><td>No</td><td>Judul Headline</td><td>Kategori</td><td>Waktu Publish</td><td>Waktu Scrapping</td></tr>";
+                $.each(obj,function(n,data){
+                    str +="<tr><td align='center'>" + (n+1) + "</td>";
+                    str +="<td>" + data.judul + "</td>";
+                    str +="<td align='center'>" + data.kategori + "</td>";
+                    str +="<td>" + data.waktu_publish + "</td>";
+                    str +="<td>" + data.waktu_scraping + "</td></tr>";
+                });
+                str +="</table>";
+                $('#headline_json').html(str);
+            });
+        });
+    </script>
+</html>

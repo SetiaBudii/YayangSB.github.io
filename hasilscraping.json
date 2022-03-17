@@ -1,0 +1,802 @@
+[
+      {
+            "No": "1",
+            "Nama": "Elon Musk",
+            "Harta": "$229.6 B",
+            "Usia": "50",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5f47d4de7637290765bce495/416x416.jpg?background=000000&cropX1=1699&cropX2=3845&cropY1=559&cropY2=2704"
+      },
+      {
+            "No": "2",
+            "Nama": "Jeff Bezos",
+            "Harta": "$178.9 B",
+            "Usia": "58",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5bb22ae84bbe6f67d2e82e05/416x416.jpg?background=000000&cropX1=627&cropX2=1639&cropY1=129&cropY2=1142"
+      },
+      {
+            "No": "3",
+            "Nama": "Bernard Arnault & family",
+            "Harta": "$167.3 B",
+            "Usia": "73",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5dc05518ca425400079c659f/416x416.jpg?background=000000&cropX1=0&cropX2=4000&cropY1=1209&cropY2=5212"
+      },
+      {
+            "No": "4",
+            "Nama": "Bill Gates",
+            "Harta": "$131.7 B",
+            "Usia": "66",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5f4ebe0c87612dab4f12a597/416x416.jpg?background=000000&cropX1=292&cropX2=3684&cropY1=592&cropY2=3987"
+      },
+      {
+            "No": "5",
+            "Nama": "Warren Buffett",
+            "Harta": "$121.3 B",
+            "Usia": "91",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5babb7f1a7ea4342a948b79a/416x416.jpg?background=000000&cropX1=748&cropX2=3075&cropY1=1753&cropY2=4082"
+      },
+      {
+            "No": "6",
+            "Nama": "Larry Page",
+            "Harta": "$113.3 B",
+            "Usia": "48",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5c76bcaaa7ea43100043c836/416x416.jpg?background=000000&cropX1=227&cropX2=2022&cropY1=22&cropY2=1817"
+      },
+      {
+            "No": "7",
+            "Nama": "Sergey Brin",
+            "Harta": "$109.3 B",
+            "Usia": "48",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5c7d7c254bbe6f78090d831f/416x416.jpg?background=000000&cropX1=475&cropX2=2887&cropY1=168&cropY2=2582"
+      },
+      {
+            "No": "8",
+            "Nama": "Larry Ellison",
+            "Harta": "$109.1 B",
+            "Usia": "77",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5e8b62cfc095010007bffea0/416x416.jpg?background=000000&cropX1=0&cropX2=4529&cropY1=652&cropY2=5184"
+      },
+      {
+            "No": "9",
+            "Nama": "Steve Ballmer",
+            "Harta": "$95.2 B",
+            "Usia": "65",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/59d50c47a7ea436b47b36d66/416x416.jpg?background=000000&cropX1=553&cropX2=2940&cropY1=322&cropY2=2708"
+      },
+      {
+            "No": "10",
+            "Nama": "Mukesh Ambani",
+            "Harta": "$93.7 B",
+            "Usia": "64",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5c7d7829a7ea434b351ba0b6/416x416.jpg?background=000000&cropX1=206&cropX2=2043&cropY1=250&cropY2=2089"
+      },
+      {
+            "No": "11",
+            "Nama": "Gautam Adani & family",
+            "Harta": "$93.2 B",
+            "Usia": "59",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/59cd4d61a7ea434a34f47b11/416x416.jpg?background=000000&cropX1=891&cropX2=4131&cropY1=69&cropY2=3309"
+      },
+      {
+            "No": "12",
+            "Nama": "Michael Bloomberg",
+            "Harta": "$82.0 B",
+            "Usia": "80",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5c76b4104bbe6f24ad99c35d/416x416.jpg?background=000000&cropX1=165&cropX2=5613&cropY1=321&cropY2=5769"
+      },
+      {
+            "No": "13",
+            "Nama": "Carlos Slim Helu & family",
+            "Harta": "$80.0 B",
+            "Usia": "82",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5c76ba144bbe6f24ad99c613/416x416.jpg?background=000000&cropX1=0&cropX2=3005&cropY1=389&cropY2=3395"
+      },
+      {
+            "No": "14",
+            "Nama": "Francoise Bettencourt Meyers & family",
+            "Harta": "$78.9 B",
+            "Usia": "68",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/605e26e3c65f7c2596bd3e15/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+      },
+      {
+            "No": "15",
+            "Nama": "Mark Zuckerberg",
+            "Harta": "$72.9 B",
+            "Usia": "37",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5c76b7d331358e35dd2773a9/416x416.jpg?background=000000&cropX1=0&cropX2=4401&cropY1=0&cropY2=4401"
+      },
+      {
+            "No": "16",
+            "Nama": "Jim Walton",
+            "Harta": "$67.2 B",
+            "Usia": "73",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5c7ef2fea7ea434b351bca5a/416x416.jpg?background=000000&cropX1=49&cropX2=934&cropY1=65&cropY2=951"
+      },
+      {
+            "No": "17",
+            "Nama": "Zhong Shanshan",
+            "Harta": "$66.9 B",
+            "Usia": "67",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/60380e390357bc1fbfc0bc32/416x416.jpg?background=000000&cropX1=116&cropX2=1327&cropY1=201&cropY2=1413"
+      },
+      {
+            "No": "18",
+            "Nama": "Alice Walton",
+            "Harta": "$66.3 B",
+            "Usia": "72",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5c7ef270a7ea434b351bca52/416x416.jpg?background=000000&cropX1=232&cropX2=998&cropY1=222&cropY2=988"
+      },
+      {
+            "No": "19",
+            "Nama": "Rob Walton",
+            "Harta": "$66.0 B",
+            "Usia": "77",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/59d50a9e4bbe6f37dd9ff712/416x416.jpg?background=000000&cropX1=244&cropX2=1841&cropY1=60&cropY2=1658"
+      },
+      {
+            "No": "20",
+            "Nama": "Charles Koch",
+            "Harta": "$60.3 B",
+            "Usia": "86",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/615c94bd2aac2936a52682d1/416x416.jpg?background=000000&cropX1=286&cropX2=848&cropY1=110&cropY2=672"
+      },
+      {
+            "No": "20",
+            "Nama": "Julia Koch & family",
+            "Harta": "$60.3 B",
+            "Usia": "59",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5e7bbaaa10380d0006fc154e/416x416.jpg?background=000000&cropX1=0&cropX2=5196&cropY1=0&cropY2=5196"
+      },
+      {
+            "No": "22",
+            "Nama": "Amancio Ortega",
+            "Harta": "$56.9 B",
+            "Usia": "85",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5c76b94131358e35dd27748e/416x416.jpg?background=000000&cropX1=179&cropX2=2232&cropY1=216&cropY2=2269"
+      },
+      {
+            "No": "23",
+            "Nama": "Michael Dell",
+            "Harta": "$55.4 B",
+            "Usia": "57",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/615c93f9da61f2ff5b9ecf9b/416x416.jpg?background=000000&cropX1=0&cropX2=1678&cropY1=118&cropY2=1797"
+      },
+      {
+            "No": "24",
+            "Nama": "Zhang Yiming",
+            "Harta": "$49.5 B",
+            "Usia": "38",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/618e91e427fcd6441f93c0c6/416x416.jpg?background=000000&cropX1=227&cropX2=1294&cropY1=14&cropY2=1080"
+      },
+      {
+            "No": "25",
+            "Nama": "David Thomson & family",
+            "Harta": "$49.4 B",
+            "Usia": "64",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5a7ba72aa7ea43169012f1b4/416x416.jpg?background=000000&cropX1=1065&cropX2=3315&cropY1=60&cropY2=2310"
+      },
+      {
+            "No": "26",
+            "Nama": "Phil Knight & family",
+            "Harta": "$48.1 B",
+            "Usia": "84",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5a8d930431358e4955adf1bb/416x416.jpg?background=000000&cropX1=1457&cropX2=2405&cropY1=17&cropY2=966"
+      },
+      {
+            "No": "27",
+            "Nama": "Robin Zeng",
+            "Harta": "$47.2 B",
+            "Usia": "53",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/6067bcb1bfd36aed75c0c223/416x416.jpg?background=000000&cropX1=19&cropX2=1080&cropY1=19&cropY2=1080"
+      },
+      {
+            "No": "28",
+            "Nama": "Dieter Schwarz",
+            "Harta": "$47.1 B",
+            "Usia": "82",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/6050f48ca1ab099ed6e290cc/416x416.jpg?background=000000&cropX1=0&cropX2=800&cropY1=0&cropY2=800"
+      },
+      {
+            "No": "29",
+            "Nama": "MacKenzie Scott",
+            "Harta": "$45.8 B",
+            "Usia": "51",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/61ae9e9ff0382e22173e1903/416x416.jpg?background=000000&cropX1=343&cropX2=1125&cropY1=137&cropY2=920"
+      },
+      {
+            "No": "30",
+            "Nama": "Klaus-Michael Kuehne",
+            "Harta": "$42.7 B",
+            "Usia": "84",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5e762e4fc7b02d000666c89b/416x416.jpg?background=000000&cropX1=792&cropX2=4141&cropY1=0&cropY2=3347"
+      },
+      {
+            "No": "31",
+            "Nama": "Fran\u00e7ois Pinault & family",
+            "Harta": "$42.5 B",
+            "Usia": "85",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5f1eeca8e77f92a058fb1a81/416x416.jpg?background=000000&cropX1=1806&cropX2=3901&cropY1=36&cropY2=2133"
+      },
+      {
+            "No": "32",
+            "Nama": "Rodolphe Saad\u00e9 & family",
+            "Harta": "$41.4 B",
+            "Usia": "52",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5e75a5ce10380d0006fbaa1b/416x416.jpg?background=000000&cropX1=249&cropX2=1628&cropY1=16&cropY2=1394"
+      },
+      {
+            "No": "33",
+            "Nama": "Ma Huateng",
+            "Harta": "$39.2 B",
+            "Usia": "50",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/605e23c0f0986f688fbd3e15/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+      },
+      {
+            "No": "34",
+            "Nama": "Beate Heister & Karl Albrecht Jr. & family",
+            "Harta": "$37.8 B",
+            "Usia": "supermarkets",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/6050f48ca1ab099ed6e290cc/416x416.jpg?background=000000&cropX1=0&cropX2=800&cropY1=0&cropY2=800"
+      },
+      {
+            "No": "35",
+            "Nama": "Giovanni Ferrero",
+            "Harta": "$36.2 B",
+            "Usia": "57",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5b11bc5ca7ea436b547f29cb/416x416.jpg?background=000000&cropX1=622&cropX2=1844&cropY1=361&cropY2=1582"
+      },
+      {
+            "No": "36",
+            "Nama": "Stephen Schwarzman",
+            "Harta": "$34.8 B",
+            "Usia": "75",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5d89f4d318444200084e5265/416x416.jpg?background=000000&cropX1=1911&cropX2=5305&cropY1=26&cropY2=3418"
+      },
+      {
+            "No": "37",
+            "Nama": "Li Ka-shing",
+            "Harta": "$34.7 B",
+            "Usia": "93",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/60351d9a688e1407617b2595/416x416.jpg?background=000000&cropX1=1341&cropX2=2035&cropY1=411&cropY2=1105"
+      },
+      {
+            "No": "38",
+            "Nama": "Len Blavatnik",
+            "Harta": "$33.8 B",
+            "Usia": "64",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5c745d7b4bbe6f072958dac9/416x416.jpg?background=000000&cropX1=473&cropX2=2103&cropY1=123&cropY2=1753"
+      },
+      {
+            "No": "39",
+            "Nama": "Lee Shau Kee",
+            "Harta": "$33.4 B",
+            "Usia": "94",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/605e29dee450fb635e9d9140/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+      },
+      {
+            "No": "40",
+            "Nama": "John Mars",
+            "Harta": "$32.0 B",
+            "Usia": "86",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5ba41e08a7ea434e4c6948eb/416x416.jpg?background=000000&cropX1=53&cropX2=1401&cropY1=9&cropY2=1357"
+      },
+      {
+            "No": "40",
+            "Nama": "Jacqueline Mars",
+            "Harta": "$32.0 B",
+            "Usia": "82",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/59d50d06a7ea436b47b36d84/416x416.jpg?background=000000&cropX1=147&cropX2=1649&cropY1=377&cropY2=1879"
+      },
+      {
+            "No": "42",
+            "Nama": "Alain Wertheimer",
+            "Harta": "$30.8 B",
+            "Usia": "73",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/6038217dfcc7547219c6da2b/416x416.jpg?background=000000&cropX1=91&cropX2=1460&cropY1=172&cropY2=1541"
+      },
+      {
+            "No": "42",
+            "Nama": "Gerard Wertheimer",
+            "Harta": "$30.8 B",
+            "Usia": "71",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5e759fd2c7b02d000666c44e/416x416.jpg?background=000000&cropX1=39&cropX2=1396&cropY1=18&cropY2=1375"
+      },
+      {
+            "No": "44",
+            "Nama": "Gina Rinehart",
+            "Harta": "$29.7 B",
+            "Usia": "68",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5c794b404bbe6f659da9afee/416x416.jpg?background=000000&cropX1=231&cropX2=2298&cropY1=485&cropY2=2552"
+      },
+      {
+            "No": "45",
+            "Nama": "Leonardo Del Vecchio & family",
+            "Harta": "$29.4 B",
+            "Usia": "86",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/605e2e8ca4f18e06b39d9142/416x416.jpg?background=000000&cropX1=0&cropX2=1384&cropY1=0&cropY2=1384"
+      },
+      {
+            "No": "46",
+            "Nama": "William Lei Ding",
+            "Harta": "$29.4 B",
+            "Usia": "50",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5e790d54c7b02d000666fa67/416x416.jpg?background=000000&cropX1=571&cropX2=4018&cropY1=0&cropY2=3445"
+      },
+      {
+            "No": "47",
+            "Nama": "Shiv Nadar",
+            "Harta": "$28.8 B",
+            "Usia": "76",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/605e2b0c7cd0a7025abd3e15/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+      },
+      {
+            "No": "48",
+            "Nama": "Jim Simons",
+            "Harta": "$28.6 B",
+            "Usia": "83",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5d8bd8326de3150009a51efb/416x416.jpg?background=000000&cropX1=1332&cropX2=2541&cropY1=0&cropY2=1208"
+      },
+      {
+            "No": "49",
+            "Nama": "German Larrea Mota Velasco & family",
+            "Harta": "$28.6 B",
+            "Usia": "68",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/597a47174bbe6f3eb800b6b8/416x416.jpg?background=000000&cropX1=1901&cropX2=3603&cropY1=368&cropY2=2069"
+      },
+      {
+            "No": "50",
+            "Nama": "He Xiangjian",
+            "Harta": "$27.9 B",
+            "Usia": "79",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5f88aa3c6e0f7a6ca036fc64/416x416.jpg?background=000000&cropX1=1462&cropX2=2567&cropY1=1200&cropY2=2305"
+      },
+      {
+            "No": "51",
+            "Nama": "Miriam Adelson",
+            "Harta": "$27.5 B",
+            "Usia": "76",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/605e494f800955d12c9d9142/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+      },
+      {
+            "No": "52",
+            "Nama": "Ken Griffin",
+            "Harta": "$27.5 B",
+            "Usia": "53",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5d8a5e7e18444200084e658b/416x416.jpg?background=000000&cropX1=1024&cropX2=2061&cropY1=308&cropY2=1344"
+      },
+      {
+            "No": "53",
+            "Nama": "Tadashi Yanai & family",
+            "Harta": "$26.3 B",
+            "Usia": "73",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/605e406426ae85acfc9d9140/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+      },
+      {
+            "No": "54",
+            "Nama": "Takemitsu Takizaki",
+            "Harta": "$25.0 B",
+            "Usia": "76",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5eaa4141ed706b0007e62bd7/416x416.jpg?background=000000&cropX1=1310&cropX2=2754&cropY1=224&cropY2=1667"
+      },
+      {
+            "No": "55",
+            "Nama": "Susanne Klatten",
+            "Harta": "$24.9 B",
+            "Usia": "59",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/605e281e4f49584f571c9c42/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+      },
+      {
+            "No": "56",
+            "Nama": "Jack Ma",
+            "Harta": "$24.7 B",
+            "Usia": "57",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/605e22fe6df966b3fcbd3e15/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+      },
+      {
+            "No": "57",
+            "Nama": "Li Shufu",
+            "Harta": "$24.6 B",
+            "Usia": "58",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5bcf84b931358e5b43344465/416x416.jpg?background=000000&cropX1=1390&cropX2=2922&cropY1=440&cropY2=1970"
+      },
+      {
+            "No": "58",
+            "Nama": "Cyrus Poonawalla",
+            "Harta": "$24.4 B",
+            "Usia": "80",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5e76844210380d0006fbb391/416x416.jpg?background=000000&cropX1=807&cropX2=2216&cropY1=4&cropY2=1412"
+      },
+      {
+            "No": "59",
+            "Nama": "Sam Bankman-Fried",
+            "Harta": "$24.0 B",
+            "Usia": "30",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/615b149110bfa4447ff49baa/416x416.jpg?background=000000&cropX1=41&cropX2=2398&cropY1=333&cropY2=2691"
+      },
+      {
+            "No": "60",
+            "Nama": "Leonard Lauder",
+            "Harta": "$23.6 B",
+            "Usia": "88",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5d8bd6eb22254b0008e17ce3/416x416.jpg?background=000000&cropX1=1114&cropX2=1980&cropY1=107&cropY2=973"
+      },
+      {
+            "No": "61",
+            "Nama": "Emmanuel Besnier",
+            "Harta": "$23.6 B",
+            "Usia": "51",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5e759e31c7b02d000666c445/416x416.jpg?background=000000&cropX1=283&cropX2=1696&cropY1=1002&cropY2=2414"
+      },
+      {
+            "No": "62",
+            "Nama": "Dietrich Mateschitz",
+            "Harta": "$23.5 B",
+            "Usia": "77",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5e7419c910380d0006bdab6a/416x416.jpg?background=000000&cropX1=882&cropX2=3841&cropY1=6&cropY2=2966"
+      },
+      {
+            "No": "63",
+            "Nama": "Iris Fontbona & family",
+            "Harta": "$23.4 B",
+            "Usia": "79",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5c6db2974bbe6f0ec75418f0/416x416.jpg?background=000000&cropX1=124&cropX2=491&cropY1=0&cropY2=367"
+      },
+      {
+            "No": "64",
+            "Nama": "R. Budi Hartono",
+            "Harta": "$23.3 B",
+            "Usia": "81",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/6050f48ca1ab099ed6e290cc/416x416.jpg?background=000000&cropX1=0&cropX2=800&cropY1=0&cropY2=800"
+      },
+      {
+            "No": "65",
+            "Nama": "Guillaume Pousaz",
+            "Harta": "$23.0 B",
+            "Usia": "40",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/6063905ac98d8bbfdbce7e1c/416x416.jpg?background=000000&cropX1=40&cropX2=2632&cropY1=467&cropY2=3058"
+      },
+      {
+            "No": "66",
+            "Nama": "Qin Yinglin",
+            "Harta": "$22.8 B",
+            "Usia": "56",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/a3722ff48b63420aa857d7c876d5c521/416x416.jpg?background=000000&cropX1=18&cropX2=744&cropY1=34&cropY2=761"
+      },
+      {
+            "No": "67",
+            "Nama": "Jensen Huang",
+            "Harta": "$22.8 B",
+            "Usia": "59",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5bc505a331358e59f57abeb9/416x416.jpg?background=000000&cropX1=553&cropX2=3255&cropY1=212&cropY2=2912"
+      },
+      {
+            "No": "68",
+            "Nama": "Wang Wei",
+            "Harta": "$22.6 B",
+            "Usia": "51",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5dc05174b4d505000678d99e/416x416.jpg?background=000000&cropX1=879&cropX2=2088&cropY1=805&cropY2=2013"
+      },
+      {
+            "No": "69",
+            "Nama": "Eric Schmidt",
+            "Harta": "$22.5 B",
+            "Usia": "66",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5f4526a6f048a75b8e14e6b2/416x416.jpg?background=000000&cropX1=0&cropX2=3235&cropY1=381&cropY2=3615"
+      },
+      {
+            "No": "70",
+            "Nama": "Michael Hartono",
+            "Harta": "$22.4 B",
+            "Usia": "82",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5c70b46c4bbe6f79c5473f84/416x416.jpg?background=000000&cropX1=286&cropX2=2548&cropY1=78&cropY2=2340"
+      },
+      {
+            "No": "71",
+            "Nama": "Masayoshi Son",
+            "Harta": "$22.1 B",
+            "Usia": "64",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5e8b632801879f000703e485/416x416.jpg?background=000000&cropX1=0&cropX2=4500&cropY1=833&cropY2=5330"
+      },
+      {
+            "No": "72",
+            "Nama": "Ray Dalio",
+            "Harta": "$22.0 B",
+            "Usia": "72",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5ac959f74bbe6f2310f1e05c/416x416.jpg?background=000000&cropX1=657&cropX2=3206&cropY1=80&cropY2=2627"
+      },
+      {
+            "No": "73",
+            "Nama": "Thomas Frist Jr & family",
+            "Harta": "$21.8 B",
+            "Usia": "83",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/ee825ff539047091cda533423b10d65b/416x416.jpg?background=000000&cropX1=16&cropX2=947&cropY1=153&cropY2=1084"
+      },
+      {
+            "No": "74",
+            "Nama": "Thomas Peterffy",
+            "Harta": "$21.5 B",
+            "Usia": "77",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5d8a5c6218444200084e6532/416x416.jpg?background=000000&cropX1=466&cropX2=1132&cropY1=297&cropY2=962"
+      },
+      {
+            "No": "75",
+            "Nama": "Stefan Quandt",
+            "Harta": "$21.3 B",
+            "Usia": "55",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/f257c2f96ce1171be43e685e6d8f9fa3/416x416.jpg?background=000000&cropX1=124&cropX2=725&cropY1=92&cropY2=693"
+      },
+      {
+            "No": "76",
+            "Nama": "Huang Shilin",
+            "Harta": "$21.3 B",
+            "Usia": "55",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5ab944eda7ea432fbc1d2d9c/416x416.jpg?background=000000&cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+      },
+      {
+            "No": "77",
+            "Nama": "Rupert Murdoch & family",
+            "Harta": "$21.3 B",
+            "Usia": "91",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/6067bf2f800a3f1324d4c89c/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+      },
+      {
+            "No": "78",
+            "Nama": "Abigail Johnson",
+            "Harta": "$21.1 B",
+            "Usia": "60",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5f15ddd274642d00070464eb/416x416.jpg?background=000000&cropX1=62&cropX2=1355&cropY1=144&cropY2=1437"
+      },
+      {
+            "No": "79",
+            "Nama": "Daniel Gilbert",
+            "Harta": "$21.1 B",
+            "Usia": "60",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5e444fcb112160000621ed4c/416x416.jpg?background=000000&cropX1=0&cropX2=2000&cropY1=307&cropY2=2307"
+      },
+      {
+            "No": "80",
+            "Nama": "Radhakishan Damani",
+            "Harta": "$20.0 B",
+            "Usia": "67",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5ab944eda7ea432fbc1d2d9c/416x416.jpg?background=000000&cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+      },
+      {
+            "No": "81",
+            "Nama": "Jiang Rensheng & family",
+            "Harta": "$20.0 B",
+            "Usia": "68",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/6182ba8fd8d8f69e121c7a9b/416x416.jpg?background=000000&cropX1=66&cropX2=652&cropY1=266&cropY2=853"
+      },
+      {
+            "No": "82",
+            "Nama": "Wang Chuanfu",
+            "Harta": "$19.7 B",
+            "Usia": "56",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5dc0d6ac5e338c00066239e2/416x416.jpg?background=000000&cropX1=2491&cropX2=3773&cropY1=847&cropY2=2130"
+      },
+      {
+            "No": "83",
+            "Nama": "Yang Huiyan & family",
+            "Harta": "$19.6 B",
+            "Usia": "40",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5a0b1b83a7ea436b47b558ba/416x416.jpg?background=000000&cropX1=1&cropX2=600&cropY1=3&cropY2=602"
+      },
+      {
+            "No": "84",
+            "Nama": "Pang Kang",
+            "Harta": "$19.4 B",
+            "Usia": "66",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/6050f48ca1ab099ed6e290cc/416x416.jpg?background=000000&cropX1=0&cropX2=800&cropY1=0&cropY2=800"
+      },
+      {
+            "No": "85",
+            "Nama": "Vladimir Lisin",
+            "Harta": "$19.3 B",
+            "Usia": "65",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5e77914ec7b02d000666d900/416x416.jpg?background=000000&cropX1=825&cropX2=3235&cropY1=50&cropY2=2459"
+      },
+      {
+            "No": "86",
+            "Nama": "Theo Albrecht Jr & family",
+            "Harta": "$19.2 B",
+            "Usia": "71",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/6050f48ca1ab099ed6e290cc/416x416.jpg?background=000000&cropX1=0&cropX2=800&cropY1=0&cropY2=800"
+      },
+      {
+            "No": "87",
+            "Nama": "Fan Hongwei & family",
+            "Harta": "$18.8 B",
+            "Usia": "55",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/6050f48ca1ab099ed6e290cc/416x416.jpg?background=000000&cropX1=0&cropX2=800&cropY1=0&cropY2=800"
+      },
+      {
+            "No": "88",
+            "Nama": "Vladimir Potanin",
+            "Harta": "$18.5 B",
+            "Usia": "61",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5e87ae86582b5d00068ce78c/416x416.jpg?background=000000&cropX1=1187&cropX2=4259&cropY1=272&cropY2=3347"
+      },
+      {
+            "No": "89",
+            "Nama": "Reinhold Wuerth & family",
+            "Harta": "$18.3 B",
+            "Usia": "86",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5e76350710380d0006fbadf8/416x416.jpg?background=000000&cropX1=2132&cropX2=5568&cropY1=0&cropY2=3434"
+      },
+      {
+            "No": "90",
+            "Nama": "Li Xiting",
+            "Harta": "$18.3 B",
+            "Usia": "71",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/61114d1ee2a2505345419c4e/416x416.jpg?background=000000&cropX1=0&cropX2=949&cropY1=0&cropY2=950"
+      },
+      {
+            "No": "91",
+            "Nama": "Lakshmi Mittal",
+            "Harta": "$18.1 B",
+            "Usia": "71",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5e76907e10380d0006fbb485/416x416.jpg?background=000000&cropX1=207&cropX2=1974&cropY1=137&cropY2=1904"
+      },
+      {
+            "No": "92",
+            "Nama": "Savitri Jindal & family",
+            "Harta": "$17.7 B",
+            "Usia": "71",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/55f77874e4b0ffa7afe4940e/416x416.jpg?background=000000&cropX1=90&cropX2=676&cropY1=53&cropY2=640"
+      },
+      {
+            "No": "93",
+            "Nama": "Gianluigi & Rafaela Aponte",
+            "Harta": "$17.6 B",
+            "Usia": "81",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5e77ceeac7b02d000666de20/416x416.jpg?background=000000&cropX1=1096&cropX2=5302&cropY1=46&cropY2=4249"
+      },
+      {
+            "No": "94",
+            "Nama": "Stefan Persson",
+            "Harta": "$17.5 B",
+            "Usia": "74",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5c721cd64bbe6f51818ab844/416x416.jpg?background=000000&cropX1=1176&cropX2=2731&cropY1=522&cropY2=2076"
+      },
+      {
+            "No": "95",
+            "Nama": "Andrew Forrest",
+            "Harta": "$17.5 B",
+            "Usia": "60",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5e73f1b207adf00006db9ac8/416x416.jpg?background=000000&cropX1=451&cropX2=3063&cropY1=133&cropY2=2747"
+      },
+      {
+            "No": "96",
+            "Nama": "Peter Woo",
+            "Harta": "$17.4 B",
+            "Usia": "75",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/620d2693995b45d70b8590b0/416x416.jpg?background=000000&cropX1=806&cropX2=1851&cropY1=642&cropY2=1687"
+      },
+      {
+            "No": "97",
+            "Nama": "Steve Cohen",
+            "Harta": "$17.4 B",
+            "Usia": "65",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5a8d946e4bbe6f2652f61ca6/416x416.jpg?background=000000&cropX1=703&cropX2=3292&cropY1=80&cropY2=2667"
+      },
+      {
+            "No": "98",
+            "Nama": "Sun Piaoyang",
+            "Harta": "$17.3 B",
+            "Usia": "63",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5bcf9178a7ea43705914d65b/416x416.jpg?background=000000&cropX1=724&cropX2=3557&cropY1=0&cropY2=2832"
+      },
+      {
+            "No": "99",
+            "Nama": "Mike Cannon-Brookes",
+            "Harta": "$17.2 B",
+            "Usia": "42",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5e740e4510380d0006bdaa64/416x416.jpg?background=000000&cropX1=188&cropX2=2855&cropY1=0&cropY2=2667"
+      },
+      {
+            "No": "100",
+            "Nama": "John Menard Jr",
+            "Harta": "$17.2 B",
+            "Usia": "82",
+            "waktu_scraping": "2022-03-17 pukul 20:43:37",
+            "Image": "https://specials-images.forbesimg.com/imageserve/5f0f870a933def00067666de/416x416.jpg?background=000000&cropX1=223&cropX2=1909&cropY1=133&cropY2=1820"
+      }
+]
