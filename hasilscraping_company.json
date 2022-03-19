@@ -1,0 +1,802 @@
+[
+      {
+            "Name": "JPMorgan Chase",
+            "Market": "$412.56 B",
+            "Price": "$139.72",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/JPM.webp"
+      },
+      {
+            "Name": "Bank of America",
+            "Market": "$342.95 B",
+            "Price": "$42.53",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BAC.webp"
+      },
+      {
+            "Name": "ICBC",
+            "Market": "$249.93 B",
+            "Price": "$0.59",
+            "Country": "China",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/1398.HK.webp"
+      },
+      {
+            "Name": "Wells Fargo",
+            "Market": "$193.28 B",
+            "Price": "$50.67",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/WFC.webp"
+      },
+      {
+            "Name": "China Construction Bank",
+            "Market": "$189.34 B",
+            "Price": "$14.71",
+            "Country": "China",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CICHY.webp"
+      },
+      {
+            "Name": "CM Bank",
+            "Market": "$181.87 B",
+            "Price": "$7.85",
+            "Country": "China",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/3968.HK.webp"
+      },
+      {
+            "Name": "Morgan Stanley",
+            "Market": "$167.79 B",
+            "Price": "$94.20",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/MS.webp"
+      },
+      {
+            "Name": "Charles Schwab",
+            "Market": "$164.21 B",
+            "Price": "$90.50",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SCHW.webp"
+      },
+      {
+            "Name": "Agricultural Bank of China",
+            "Market": "$161.05 B",
+            "Price": "$9.21",
+            "Country": "China",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ACGBY.webp"
+      },
+      {
+            "Name": "Royal Bank Of Canada",
+            "Market": "$159.28 B",
+            "Price": "$112.44",
+            "Country": "Canada",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/RY.webp"
+      },
+      {
+            "Name": "Toronto Dominion Bank",
+            "Market": "$146.29 B",
+            "Price": "$80.66",
+            "Country": "Canada",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/TD.webp"
+      },
+      {
+            "Name": "Commonwealth Bank",
+            "Market": "$134.02 B",
+            "Price": "$78.61",
+            "Country": "Australia",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CBA.AX.webp"
+      },
+      {
+            "Name": "HSBC",
+            "Market": "$133.63 B",
+            "Price": "$33.07",
+            "Country": "UK",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/HSBC.webp"
+      },
+      {
+            "Name": "Bank of China",
+            "Market": "$125.55 B",
+            "Price": "$0.38",
+            "Country": "China",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BACHF.webp"
+      },
+      {
+            "Name": "Goldman Sachs",
+            "Market": "$116.17 B",
+            "Price": "$343.79",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/GS.webp"
+      },
+      {
+            "Name": "HDFC Bank",
+            "Market": "$115.08 B",
+            "Price": "$62.28",
+            "Country": "India",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/HDB.webp"
+      },
+      {
+            "Name": "Citigroup",
+            "Market": "$113.61 B",
+            "Price": "$57.36",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/C.webp"
+      },
+      {
+            "Name": "Al Rajhi Bank",
+            "Market": "$105.95 B",
+            "Price": "$42.38",
+            "Country": "S.",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/1120.SR.webp"
+      },
+      {
+            "Name": "Scotiabank",
+            "Market": "$88.64 B",
+            "Price": "$73.60",
+            "Country": "Canada",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BNS.webp"
+      },
+      {
+            "Name": "U.S. Bancorp",
+            "Market": "$83.22 B",
+            "Price": "$56.04",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/USB.webp"
+      },
+      {
+            "Name": "The Saudi National Bank",
+            "Market": "$81.94 B",
+            "Price": "$18.13",
+            "Country": "S.",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/1180.SR.webp"
+      },
+      {
+            "Name": "Mitsubishi UFJ Financial",
+            "Market": "$81.56 B",
+            "Price": "$6.42",
+            "Country": "Japan",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/MUFG.webp"
+      },
+      {
+            "Name": "PNC Financial Services",
+            "Market": "$79.71 B",
+            "Price": "$190.49",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/PNC.webp"
+      },
+      {
+            "Name": "Bank of Montreal",
+            "Market": "$78.29 B",
+            "Price": "$120.73",
+            "Country": "Canada",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BMO.webp"
+      },
+      {
+            "Name": "Postal Savings Bank of China",
+            "Market": "$76.99 B",
+            "Price": "$0.81",
+            "Country": "China",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/601658.SS.webp"
+      },
+      {
+            "Name": "Truist Financial",
+            "Market": "$76.53 B",
+            "Price": "$57.63",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/TFC.webp"
+      },
+      {
+            "Name": "National Australia Bank",
+            "Market": "$75.44 B",
+            "Price": "$23.08",
+            "Country": "Australia",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/NAB.AX.webp"
+      },
+      {
+            "Name": "Industrial Bank",
+            "Market": "$74.80 B",
+            "Price": "$3.26",
+            "Country": "China",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/601166.SS.webp"
+      },
+      {
+            "Name": "BNP Paribas",
+            "Market": "$70.55 B",
+            "Price": "$57.21",
+            "Country": "France",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BNPQF.webp"
+      },
+      {
+            "Name": "Bank Central Asia",
+            "Market": "$67.89 B",
+            "Price": "$0.55",
+            "Country": "Indonesia",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BBCA.JK.webp"
+      },
+      {
+            "Name": "DBS",
+            "Market": "$66.85 B",
+            "Price": "$25.98",
+            "Country": "Singapore",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/DBSDF.webp"
+      },
+      {
+            "Name": "ICICI Bank",
+            "Market": "$65.87 B",
+            "Price": "$18.97",
+            "Country": "India",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/IBN.webp"
+      },
+      {
+            "Name": "UBS",
+            "Market": "$62.89 B",
+            "Price": "$18.50",
+            "Country": "Switzerland",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/UBS.webp"
+      },
+      {
+            "Name": "State Bank of India",
+            "Market": "$58.83 B",
+            "Price": "$6.59",
+            "Country": "India",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SBIN.NS.webp"
+      },
+      {
+            "Name": "CIBC",
+            "Market": "$58.21 B",
+            "Price": "$129.08",
+            "Country": "Canada",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CM.webp"
+      },
+      {
+            "Name": "ANZ Bank",
+            "Market": "$57.50 B",
+            "Price": "$20.40",
+            "Country": "Australia",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ANZ.AX.webp"
+      },
+      {
+            "Name": "Housing Development Finance Corporation",
+            "Market": "$57.47 B",
+            "Price": "$31.72",
+            "Country": "India",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/HDFC.NS.webp"
+      },
+      {
+            "Name": "Santander",
+            "Market": "$57.38 B",
+            "Price": "$3.42",
+            "Country": "Spain",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SAN.webp"
+      },
+      {
+            "Name": "Capital One",
+            "Market": "$56.23 B",
+            "Price": "$135.95",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/COF.webp"
+      },
+      {
+            "Name": "Macquarie",
+            "Market": "$55.28 B",
+            "Price": "$144.08",
+            "Country": "Australia",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/MQG.AX.webp"
+      },
+      {
+            "Name": "Bank of Communications",
+            "Market": "$53.17 B",
+            "Price": "$0.65",
+            "Country": "China",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BKFCF.webp"
+      },
+      {
+            "Name": "Banco Santander Brasil",
+            "Market": "$52.52 B",
+            "Price": "$7.01",
+            "Country": "Brazil",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BSBR.webp"
+      },
+      {
+            "Name": "Westpac Banking",
+            "Market": "$52.04 B",
+            "Price": "$14.20",
+            "Country": "Australia",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/WBK.webp"
+      },
+      {
+            "Name": "Liberty Bancshares",
+            "Market": "$51.72 B",
+            "Price": "$67.05",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/LBSI.webp"
+      },
+      {
+            "Name": "Ita\u00fa Unibanco",
+            "Market": "$50.65 B",
+            "Price": "$5.18",
+            "Country": "Brazil",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ITUB.webp"
+      },
+      {
+            "Name": "CITIC Securities",
+            "Market": "$50.33 B",
+            "Price": "$3.37",
+            "Country": "China",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/600030.SS.webp"
+      },
+      {
+            "Name": "Kotak Mahindra Bank",
+            "Market": "$47.43 B",
+            "Price": "$23.90",
+            "Country": "India",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/KOTAKBANK.NS.webp"
+      },
+      {
+            "Name": "Sumitomo Mitsui Financial Group",
+            "Market": "$47.08 B",
+            "Price": "$6.87",
+            "Country": "Japan",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SMFG.webp"
+      },
+      {
+            "Name": "Maybank",
+            "Market": "$46.26 B",
+            "Price": "$7.79",
+            "Country": "Malaysia",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/MLYBY.webp"
+      },
+      {
+            "Name": "Ping An Bank",
+            "Market": "$46.23 B",
+            "Price": "$2.31",
+            "Country": "China",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/000001.SZ.webp"
+      },
+      {
+            "Name": "Bank Rakyat Indonesia",
+            "Market": "$45.65 B",
+            "Price": "$0.30",
+            "Country": "Indonesia",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BYRA.F.webp"
+      },
+      {
+            "Name": "Lloyds Banking Group",
+            "Market": "$44.73 B",
+            "Price": "$2.54",
+            "Country": "UK",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/LYG.webp"
+      },
+      {
+            "Name": "Intesa Sanpaolo",
+            "Market": "$44.22 B",
+            "Price": "$13.70",
+            "Country": "Italy",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ISNPY.webp"
+      },
+      {
+            "Name": "Nordea Bank",
+            "Market": "$43.46 B",
+            "Price": "$11.28",
+            "Country": "Finland",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/NDA-FI.HE.webp"
+      },
+      {
+            "Name": "Bank of New York Mellon",
+            "Market": "$41.69 B",
+            "Price": "$51.66",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BK.webp"
+      },
+      {
+            "Name": "Banco Bradesco",
+            "Market": "$40.21 B",
+            "Price": "$4.15",
+            "Country": "Brazil",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BBD.webp"
+      },
+      {
+            "Name": "OCBC Bank",
+            "Market": "$39.87 B",
+            "Price": "$8.88",
+            "Country": "Singapore",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/O39.SI.webp"
+      },
+      {
+            "Name": "UOB",
+            "Market": "$39.56 B",
+            "Price": "$23.66",
+            "Country": "Singapore",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/U11.SI.webp"
+      },
+      {
+            "Name": "ING",
+            "Market": "$39.50 B",
+            "Price": "$10.50",
+            "Country": "Netherlands",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ING.webp"
+      },
+      {
+            "Name": "Bank of China (Hong Kong)",
+            "Market": "$38.47 B",
+            "Price": "$3.64",
+            "Country": "Hong",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/2388.HK.webp"
+      },
+      {
+            "Name": "Shanghai Pudong Development Bank",
+            "Market": "$38.26 B",
+            "Price": "$1.24",
+            "Country": "China",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/600000.SS.webp"
+      },
+      {
+            "Name": "Barclays",
+            "Market": "$38.20 B",
+            "Price": "$9.12",
+            "Country": "UK",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BCS.webp"
+      },
+      {
+            "Name": "Banco Bilbao Vizcaya Argentaria",
+            "Market": "$37.81 B",
+            "Price": "$5.84",
+            "Country": "Spain",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BBVA.webp"
+      },
+      {
+            "Name": "Cr\u00e9dit Agricole",
+            "Market": "$35.92 B",
+            "Price": "$11.88",
+            "Country": "France",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CRARF.webp"
+      },
+      {
+            "Name": "Hang Seng Bank",
+            "Market": "$35.69 B",
+            "Price": "$18.67",
+            "Country": "Hong",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/0011.HK.webp"
+      },
+      {
+            "Name": "Mizuho Financial Group",
+            "Market": "$35.04 B",
+            "Price": "$2.77",
+            "Country": "Japan",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/MFG.webp"
+      },
+      {
+            "Name": "Sberbank",
+            "Market": "$33.71 B",
+            "Price": "$0.52",
+            "Country": "Russia",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SBRCY.webp"
+      },
+      {
+            "Name": "Japan Post Bank",
+            "Market": "$32.78 B",
+            "Price": "$8.75",
+            "Country": "Japan",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/7182.T.webp"
+      },
+      {
+            "Name": "State Street Corporation",
+            "Market": "$32.25 B",
+            "Price": "$88.10",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/STT.webp"
+      },
+      {
+            "Name": "Nu Holdings",
+            "Market": "$32.06 B",
+            "Price": "$7.87",
+            "Country": "Brazil",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/NU.webp"
+      },
+      {
+            "Name": "NatWest Group",
+            "Market": "$31.78 B",
+            "Price": "$5.66",
+            "Country": "UK",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/NWG.webp"
+      },
+      {
+            "Name": "Fifth Third Bank",
+            "Market": "$31.55 B",
+            "Price": "$46.02",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/FITB.webp"
+      },
+      {
+            "Name": "Fubon Financial",
+            "Market": "$30.86 B",
+            "Price": "$2.62",
+            "Country": "Taiwan",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/2881.TW.webp"
+      },
+      {
+            "Name": "First Republic Bank",
+            "Market": "$30.26 B",
+            "Price": "$168.53",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/FRC.webp"
+      },
+      {
+            "Name": "Riyad Bank",
+            "Market": "$30.18 B",
+            "Price": "$10.06",
+            "Country": "S.",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/1010.SR.webp"
+      },
+      {
+            "Name": "Axis Bank",
+            "Market": "$29.71 B",
+            "Price": "$9.71",
+            "Country": "India",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/AXISBANK.BO.webp"
+      },
+      {
+            "Name": "Cathay Financial Holding",
+            "Market": "$29.39 B",
+            "Price": "$2.23",
+            "Country": "Taiwan",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/2882.TW.webp"
+      },
+      {
+            "Name": "CaixaBank",
+            "Market": "$28.31 B",
+            "Price": "$3.52",
+            "Country": "Spain",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CABK.MC.webp"
+      },
+      {
+            "Name": "National Bank of Canada",
+            "Market": "$26.85 B",
+            "Price": "$79.37",
+            "Country": "Canada",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/NA.TO.webp"
+      },
+      {
+            "Name": "China Everbright Bank",
+            "Market": "$26.76 B",
+            "Price": "$0.50",
+            "Country": "China",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/601818.SS.webp"
+      },
+      {
+            "Name": "FirstRand",
+            "Market": "$26.58 B",
+            "Price": "$4.74",
+            "Country": "South",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/FSRA.F.webp"
+      },
+      {
+            "Name": "Bank Mandiri",
+            "Market": "$26.39 B",
+            "Price": "$0.57",
+            "Country": "Indonesia",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/PPERF.webp"
+      },
+      {
+            "Name": "Deutsche Bank",
+            "Market": "$25.56 B",
+            "Price": "$12.21",
+            "Country": "Germany",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/DB.webp"
+      },
+      {
+            "Name": "ORIX",
+            "Market": "$23.59 B",
+            "Price": "$98.70",
+            "Country": "Japan",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/IX.webp"
+      },
+      {
+            "Name": "UniCredit",
+            "Market": "$23.14 B",
+            "Price": "$10.63",
+            "Country": "Italy",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/UCG.MI.webp"
+      },
+      {
+            "Name": "M&T Bank",
+            "Market": "$22.77 B",
+            "Price": "$176.52",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/MTB.webp"
+      },
+      {
+            "Name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+            "Market": "$22.41 B",
+            "Price": "$27.06",
+            "Country": "France",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/GLE.PA.webp"
+      },
+      {
+            "Name": "KeyCorp",
+            "Market": "$21.99 B",
+            "Price": "$23.71",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/KEY.webp"
+      },
+      {
+            "Name": "Huntington Bancshares",
+            "Market": "$21.69 B",
+            "Price": "$15.02",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/HBAN.webp"
+      },
+      {
+            "Name": "Credit Suisse",
+            "Market": "$20.85 B",
+            "Price": "$8.12",
+            "Country": "Switzerland",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CS.webp"
+      },
+      {
+            "Name": "Citizens Financial Group",
+            "Market": "$20.67 B",
+            "Price": "$48.97",
+            "Country": "USA",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CFG.webp"
+      },
+      {
+            "Name": "Standard Chartered",
+            "Market": "$20.16 B",
+            "Price": "$662.62",
+            "Country": "UK",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/STAN.L.webp"
+      },
+      {
+            "Name": "Alinma Bank",
+            "Market": "$19.85 B",
+            "Price": "$9.93",
+            "Country": "S.",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/1150.SR.webp"
+      },
+      {
+            "Name": "MFHC",
+            "Market": "$19.39 B",
+            "Price": "$1.43",
+            "Country": "Taiwan",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/2886.TW.webp"
+      },
+      {
+            "Name": "CTBC Financial Holding",
+            "Market": "$19.35 B",
+            "Price": "$0.99",
+            "Country": "Taiwan",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/2891.TW.webp"
+      },
+      {
+            "Name": "Banco do Brasil",
+            "Market": "$19.07 B",
+            "Price": "$6.59",
+            "Country": "Brazil",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BZLA.F.webp"
+      },
+      {
+            "Name": "Swedbank",
+            "Market": "$18.39 B",
+            "Price": "$16.39",
+            "Country": "Sweden",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SWDBF.webp"
+      },
+      {
+            "Name": "KB Financial Group",
+            "Market": "$18.39 B",
+            "Price": "$47.22",
+            "Country": "S.",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/KB.webp"
+      },
+      {
+            "Name": "Banque Saudi Fransi",
+            "Market": "$17.04 B",
+            "Price": "$14.21",
+            "Country": "S.",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/1050.SR.webp"
+      },
+      {
+            "Name": "Bank Jago",
+            "Market": "$15.04 B",
+            "Price": "$1.08",
+            "Country": "Indonesia",
+            "waktu_scraping": "2022-03-18 pukul 23:48:41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ARTO.JK.webp"
+      }
+]

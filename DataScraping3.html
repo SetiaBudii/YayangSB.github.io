@@ -1,0 +1,34 @@
+<html lang="en" >
+    <head>
+      <meta charset="UTF-8">
+      <title>Tugas6.3-WebScrapping</title>
+      <link rel="stylesheet" href="Styles.css">
+        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	</head>
+	<body>
+        <br>
+        <h1 align="center" style="color:white" ><br><font face="Lucida Bright">Top 100 Largest Bank By Market Cap</font></h1>
+        <hr size="3px" style="width:50%; margin-left:25% !important; margin-right:25% !important;">
+        <div id="hasilscraping_json"></div>
+	</body>
+    <script type="text/javascript">
+        $(function(){
+            //mengambil data dari file json
+            $.get('hasilscraping_company.json',function(obj){
+                var str = "<table border=1 class=fl-table>";
+                str +="<tr align='center'><td>Rank</td><td>Logo</td><td>Company Name</td><td>Market</td><td>Price</td><td>Country</td><td>Time Scraping</td></tr>";
+                $.each(obj,function(n,data){
+                    str +="<tr align='center'><td>" + (n+1) + "</td>";
+                    str +='<td><img src= "' + data.Image + '"></td>';
+                    str +="<td>" + data.Name + "</td>";
+                    str +="<td width='200px'>" + data.Market + "</td>";
+                    str +="<td>" + data.Price + "</td>";
+                    str +="<td>" + data.Country + "</td>";
+                    str +="<td>" + data.waktu_scraping + "</td>";
+                });
+                str +="</table>";
+                $('#hasilscraping_json').html(str);
+            });
+        });
+    </script>
+</html>
