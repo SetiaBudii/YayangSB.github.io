@@ -204,6 +204,11 @@ svg {
 
 table {
   border-collapse: collapse;
+  background: #0b0139;
+  border-radius: 0.25em;
+  border-collapse: collapse;
+  margin: 6em;
+  color: white;
 }
 
 caption {
@@ -9569,6 +9574,11 @@ button.bg-dark:focus {
   .ml-lg-n4,
   .mx-lg-n4 {
     margin-left: -1.5rem !important;
+  }
+  
+  table.center {
+    margin-left:auto; 
+    margin-right:auto;
   }
   .m-lg-n5 {
     margin: -3rem !important;

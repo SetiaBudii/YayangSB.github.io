@@ -29,6 +29,8 @@
   <link rel="stylesheet" type="text/css" href="../assets/css/virtual.css">
   
   <link rel="stylesheet" type="text/css" href="../assets/css/topbar.virtual.css">
+  <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+
 </head>
 <body class="theme-red">
   
@@ -89,10 +91,10 @@
               <a href="#fot" class="nav-link" data-animate="scrolling">Kontak</a>
             </li>
             <li class="nav-item">
-              <a href="Tabel.html" class="nav-link" data-animate="scrolling">Data Scarping I</a>
+              <a href="#w1" class="nav-link" data-animate="scrolling">Data Scarping I</a>
             </li>
             <li class="nav-item">
-              <a href="DataScraping3.html" class="nav-link" data-animate="scrolling">Data Scarping II</a>
+              <a href="#w2" class="nav-link" data-animate="scrolling">Data Scarping II</a>
             </li>
           </ul>
           <ul class="nav ml-auto">
@@ -359,7 +361,13 @@
       </div>
     </div>
   </div> <!-- End Portfolio page -->
-  
+  <br>
+  <h1 class="fw-normal text-center wow fadeInUp" id="w1">Webscraping 1 - Headline Republika</h1>
+  <br>
+  <div id="headline_json" ></div>
+  <br>
+  <h1 class="fw-normal text-center wow fadeInUp" id="w2">Webscraping 2 - Top 100 Largest Bank By Market Cap</h1>
+  <div id="hasilscraping_json"></div>
   <!-- Testimonial -->
   <div class="vg-page page-testimonial">
     <div class="container">
@@ -498,4 +506,43 @@
   <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIA_zqjFMsJM_sxP9-6Pde5vVCTyJmUHM&callback=initMap"></script>
   
 </body>
+
+<script type="text/javascript">
+  $(function(){
+      //mengambil data dari file json
+      $.get('headline.json',function(obj){
+          var str = "<table border=1 class='center>";
+          str +="<tr align='center'><td>No</td><td align=center>Judul Headline</td><td>Kategori</td><td>Waktu Publish</td><td>Waktu Scrapping</td></tr>";
+          $.each(obj,function(n,data){
+              str +="<tr><td align='center'>" + (n+1) + "</td>";
+              str +="<td>" + data.judul + "</td>";
+              str +="<td align='left'>" + data.kategori + "</td>";
+              str +="<td>" + data.waktu_publish + "</td>";
+              str +="<td>" + data.waktu_scraping + "</td></tr>";
+          });
+          str +="</table>";
+          $('#headline_json').html(str);
+      });
+  });
+</script>
+<script type="text/javascript">
+  $(function(){
+      //mengambil data dari file json
+      $.get('hasilscraping_company.json',function(obj){
+          var str = "<table border=1 class='center'>";
+          str +="<tr align='center'><td>Rank</td><td>Logo</td><td>Company Name</td><td>Market</td><td>Price</td><td>Country</td><td>Time Scraping</td></tr>";
+          $.each(obj,function(n,data){
+              str +="<tr align='center'><td>" + (n+1) + "</td>";
+              str +='<td><img src= "' + data.Image + '"></td>';
+              str +="<td>" + data.Name + "</td>";
+              str +="<td width='200px'>" + data.Market + "</td>";
+              str +="<td>" + data.Price + "</td>";
+              str +="<td>" + data.Country + "</td>";
+              str +="<td>" + data.waktu_scraping + "</td>";
+          });
+          str +="</table>";
+          $('#hasilscraping_json').html(str);
+      });
+  });
+</script>
 </html>
