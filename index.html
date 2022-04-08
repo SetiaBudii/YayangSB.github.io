@@ -511,7 +511,7 @@
   $(function(){
       //mengambil data dari file json
       $.get('headline.json',function(obj){
-          var str = "<table border=1>";
+          var str = "<table border=1 align=center>";
           str +="<tr align='center'><td>No</td><td align=center>Judul Headline</td><td>Kategori</td><td>Waktu Publish</td><td>Waktu Scrapping</td></tr>";
           $.each(obj,function(n,data){
               str +="<tr><td align='center'>" + (n+1) + "</td>";
@@ -529,7 +529,7 @@
   $(function(){
       //mengambil data dari file json
       $.get('hasilscraping_company.json',function(obj){
-          var str = "<table border=1 >";
+          var str = "<table border=1 align=center>";
           str +="<tr align='center'><td>Rank</td><td>Logo</td><td>Company Name</td><td>Market</td><td>Price</td><td>Country</td><td>Time Scraping</td></tr>";
           $.each(obj,function(n,data){
               str +="<tr align='center'><td>" + (n+1) + "</td>";
